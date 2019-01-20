@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mazoth.github.io/"/>
-  <updated>2019-01-20T21:34:27.853Z</updated>
+  <updated>2019-01-20T22:19:08.641Z</updated>
   <id>http://mazoth.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>whoa</title>
+    <link href="http://mazoth.github.io/2019/01/20/whoa/"/>
+    <id>http://mazoth.github.io/2019/01/20/whoa/</id>
+    <published>2019-01-20T22:19:08.000Z</published>
+    <updated>2019-01-20T22:19:08.641Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
