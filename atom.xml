@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mazoth.github.io/"/>
-  <updated>2019-01-24T07:56:01.482Z</updated>
+  <updated>2019-01-30T08:47:35.373Z</updated>
   <id>http://mazoth.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Digging into SN directives</title>
+    <link href="http://mazoth.github.io/2019/01/30/Digging-into-SN-directives/"/>
+    <id>http://mazoth.github.io/2019/01/30/Digging-into-SN-directives/</id>
+    <published>2019-01-30T08:47:35.000Z</published>
+    <updated>2019-01-30T08:47:35.373Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>First Post</title>
